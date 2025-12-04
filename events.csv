@@ -1,0 +1,107 @@
+meter_id,event_type,date,event_description
+4,Misc,2021-07-01,Decommissioned the L1 AHU
+5,HVAC_Tuning,2019-05-10,HVAC System Tuning
+5,HVAC_Tuning,2020-04-21,HVAC System Tuning
+6,COVID_19_Building_Shutdown,2020-04-02,Building Shutdown due to the COVID-19 Lockdown
+7,HVAC_Tuning,2019-06-07,HVAC System Tuning
+7,HVAC_Tuning,2020-03-07,HVAC System Tuning
+8,COVID_19_Building_Shutdown,2020-04-02,Building Shutdown due to the COVID-19 Lockdown
+9,COVID_19_Building_Shutdown,2020-03-07,Building Shutdown due to the COVID-19 Lockdown
+10,COVID_19_Building_Shutdown,2020-03-17,Building Shutdown due to the COVID-19 Lockdown
+11,COVID_19_Building_Shutdown,2020-03-29,Building Shutdown due to the COVID-19 Lockdown
+12,COVID_19_Building_Shutdown,2020-03-14,Building Shutdown due to the COVID-19 Lockdown
+13,COVID_19_Building_Shutdown,2020-04-29,Building Shutdown due to the COVID-19 Lockdown
+13,Misc,2021-01-01,Replaced chiller (High efficiency)
+14,COVID_19_Building_Shutdown,2020-03-08,Building Shutdown due to the COVID-19 Lockdown
+15,COVID_19_Building_Shutdown,2020-03-17,Building Shutdown due to the COVID-19 Lockdown
+16,HVAC_Tuning,2020-02-27,HVAC System Tuning
+16,HVAC_Tuning,2019-06-02,HVAC System Tuning
+16,HVAC_Tuning,2020-03-15,HVAC System Tuning
+17,HVAC_Tuning,2019-05-15,HVAC System Tuning
+17,HVAC_Tuning,2020-03-14,HVAC System Tuning
+17,HVAC_Tuning,2020-11-20,HVAC System Tuning
+18,LED_Installation,2019-10-21,Completion of LED Installation
+18,HVAC_Tuning,2019-05-17,HVAC System Tuning
+18,COVID_19_Building_Shutdown,2020-03-14,Building Shutdown due to the COVID-19 Lockdown
+18,Misc,2021-10-01,Upgrade building components
+19,COVID_19_Building_Shutdown,2020-03-14,Building Shutdown due to the COVID-19 Lockdown
+20,COVID_19_Building_Shutdown,2020-03-21,Building Shutdown due to the COVID-19 Lockdown
+21,LED_Installation,2020-03-04,Completion of LED Installation
+21,COVID_19_Building_Shutdown,2020-03-07,Building Shutdown due to the COVID-19 Lockdown
+23,COVID_19_Building_Shutdown,2020-04-17,Building Shutdown due to the COVID-19 Lockdown
+24,COVID_19_Building_Shutdown,2020-03-31,Building Shutdown due to the COVID-19 Lockdown
+25,LED_Installation,2019-12-09,Completion of LED Installation
+25,HVAC_Tuning,2019-05-17,HVAC System Tuning
+25,COVID_19_Building_Shutdown,2020-03-28,Building Shutdown due to the COVID-19 Lockdown
+25,Misc,2021-04-01,Replaced L1 AHU
+26,LED_Installation,2019-12-09,Completion of LED Installation
+26,COVID_19_Building_Shutdown,2020-03-15,Building Shutdown due to the COVID-19 Lockdown
+27,HVAC_Tuning,2019-05-30,HVAC System Tuning
+27,COVID_19_Building_Shutdown,2020-03-14,Building Shutdown due to the COVID-19 Lockdown
+28,COVID_19_Building_Shutdown,2020-03-14,Building Shutdown due to the COVID-19 Lockdown
+29,LED_Installation,2019-10-10,Completion of LED Installation
+29,COVID_19_Building_Shutdown,2020-04-18,Building Shutdown due to the COVID-19 Lockdown
+29,Misc,2021-10-01,"Replacing all exhaust fans, 8 AHU fans, 1 Exhaust fan, 9 VSDs."
+30,HVAC_Tuning,2019-06-03,HVAC System Tuning
+30,COVID_19_Building_Shutdown,2020-03-21,Building Shutdown due to the COVID-19 Lockdown
+31,COVID_19_Building_Shutdown,2020-03-14,Building Shutdown due to the COVID-19 Lockdown
+32,HVAC_Tuning,2019-05-17,HVAC System Tuning
+32,COVID_19_Building_Shutdown,2020-03-28,Building Shutdown due to the COVID-19 Lockdown
+33,LED_Installation,2019-09-24,Completion of LED Installation
+33,HVAC_Tuning,2019-05-17,HVAC System Tuning
+33,COVID_19_Building_Shutdown,2020-04-04,Building Shutdown due to the COVID-19 Lockdown
+33,Misc,2021-04-01,Replaced L1 AHU
+34,HVAC_Tuning,2019-06-10,HVAC System Tuning
+34,COVID_19_Building_Shutdown,2020-03-14,Building Shutdown due to the COVID-19 Lockdown
+35,COVID_19_Building_Shutdown,2020-03-22,Building Shutdown due to the COVID-19 Lockdown
+35,LED_Installation,2020-11-10,Completion of LED Installation
+35,Misc,2021-10-01,"Installing new AHU, HHW Pump, Hex,etc (Savings Gas and Electric)"
+36,LED_Installation,2020-03-07,Completion of LED Installation
+36,COVID_19_Building_Shutdown,2020-03-07,Building Shutdown due to the COVID-19 Lockdown
+36,Misc,2021-08-01,Replaced all exhaust fans
+37,HVAC_Tuning,2019-06-15,HVAC System Tuning
+37,COVID_19_Building_Shutdown,2020-03-31,Building Shutdown due to the COVID-19 Lockdown
+37,LED_Installation,2021-01-12,Completion of LED Installation
+38,COVID_19_Building_Shutdown,2020-03-28,Building Shutdown due to the COVID-19 Lockdown
+39,HVAC_Tuning,2019-05-27,HVAC System Tuning
+39,HVAC_Tuning,2019-05-17,HVAC System Tuning
+39,COVID_19_Building_Shutdown,2020-03-21,Building Shutdown due to the COVID-19 Lockdown
+40,COVID_19_Building_Shutdown,2020-04-05,Building Shutdown due to the COVID-19 Lockdown
+42,COVID_19_Building_Shutdown,2020-04-10,Building Shutdown due to the COVID-19 Lockdown
+44,LED_Installation,2020-02-17,Completion of LED Installation
+44,HVAC_Tuning,2019-05-17,HVAC System Tuning
+44,COVID_19_Building_Shutdown,2020-03-14,Building Shutdown due to the COVID-19 Lockdown
+44,Misc,2021-12-01,Replacing all L1 & L2 AHUs (Savings)
+45,HVAC_Tuning,2019-05-17,HVAC System Tuning
+45,COVID_19_Building_Shutdown,2020-03-21,Building Shutdown due to the COVID-19 Lockdown
+46,LED_Installation,2020-02-05,Completion of LED Installation
+46,COVID_19_Building_Shutdown,2020-03-27,Building Shutdown due to the COVID-19 Lockdown
+49,LED_Installation,2019-11-25,Completion of LED Installation
+49,HVAC_Tuning,2019-05-23,HVAC System Tuning
+49,COVID_19_Building_Shutdown,2020-03-21,Building Shutdown due to the COVID-19 Lockdown
+50,HVAC_Tuning,2019-05-23,HVAC System Tuning
+50,COVID_19_Building_Shutdown,2020-03-14,Building Shutdown due to the COVID-19 Lockdown
+51,LED_Installation,2019-12-13,Completion of LED Installation
+51,HVAC_Tuning,2019-05-23,HVAC System Tuning
+51,COVID_19_Building_Shutdown,2020-03-07,Building Shutdown due to the COVID-19 Lockdown
+54,HVAC_Tuning,2019-05-23,HVAC System Tuning
+54,COVID_19_Building_Shutdown,2020-03-14,Building Shutdown due to the COVID-19 Lockdown
+54,LED_Installation,2020-11-20,Completion of LED Installation
+55,COVID_19_Building_Shutdown,2020-03-14,Building Shutdown due to the COVID-19 Lockdown
+56,HVAC_Tuning,2019-05-23,HVAC System Tuning
+56,COVID_19_Building_Shutdown,2020-03-15,Building Shutdown due to the COVID-19 Lockdown
+57,COVID_19_Building_Shutdown,2020-04-10,Building Shutdown due to the COVID-19 Lockdown
+58,LED_Installation,2019-10-30,Completion of LED Installation
+58,COVID_19_Building_Shutdown,2020-03-14,Building Shutdown due to the COVID-19 Lockdown
+59,HVAC_Tuning,2019-04-23,HVAC System Tuning
+59,COVID_19_Building_Shutdown,2020-03-21,Building Shutdown due to the COVID-19 Lockdown
+60,COVID_19_Building_Shutdown,2020-03-08,Building Shutdown due to the COVID-19 Lockdown
+61,HVAC_Tuning,2019-05-23,HVAC System Tuning
+61,COVID_19_Building_Shutdown,2020-03-21,Building Shutdown due to the COVID-19 Lockdown
+62,HVAC_Tuning,2019-05-23,HVAC System Tuning
+62,COVID_19_Building_Shutdown,2020-03-14,Building Shutdown due to the COVID-19 Lockdown
+62,LED_Installation,2020-11-24,Completion of LED Installation
+63,LED_Installation,2020-03-23,Completion of LED Installation
+63,HVAC_Tuning,2019-05-23,HVAC System Tuning
+63,COVID_19_Building_Shutdown,2020-03-14,Building Shutdown due to the COVID-19 Lockdown
+64,COVID_19_Building_Shutdown,2020-04-10,Building Shutdown due to the COVID-19 Lockdown
